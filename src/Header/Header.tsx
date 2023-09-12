@@ -64,7 +64,7 @@ const Header = () => {
                 sx={style.button}
                 onClick={(): void => navigation('/login')}
               >
-                Ingresar
+                My cuenta
               </Button>
               <IconButton onClick={(): void => navigation('/my-shopping')}>
                 <Tooltip title="Ver mis compras">
